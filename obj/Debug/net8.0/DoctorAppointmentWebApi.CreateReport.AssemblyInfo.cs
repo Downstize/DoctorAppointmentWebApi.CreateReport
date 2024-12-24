@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoctorAppointmentWebApi.CreateReport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853654259e5b0e7c2943db30d467d7ab9be880b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoctorAppointmentWebApi.CreateReport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoctorAppointmentWebApi.CreateReport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
